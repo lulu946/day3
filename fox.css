@@ -1,0 +1,52 @@
+.fox{
+    border: 1px solid;
+    float: left;
+    margin: 8px;
+}
+h1 {
+    text-align: left;
+}
+header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(40, 40, 128)
+   
+  }
+  .logo{
+    display: flex;
+  }
+  
+  
+   a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+  }
+  
+  
+  li a:hover {
+    background-color: #111;
+  }
+  p{
+    text-align: center;
+  }
+  .mek {
+    text-align: left;
+  }
+  .desc {
+    text-align: center;
+    padding: 15px;
+  }
+  .box{
+    width: 100%;
+    text-align:right;
+}
+.fox:hover {
+  border: 1px solid #777;
+}
+
